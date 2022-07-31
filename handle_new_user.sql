@@ -1,5 +1,5 @@
 -- pra cada novo usuário cadastrado, irá relacionar em uma tabela separada de usuários
--- essa tabela foi criada para ter mais flexibilidade ao trabalhar com os dados dos usuários cadastros
+-- essa tabela foi criada para ter mais flexibilidade ao trabalhar com os dados dos usuários cadastrados
 -- sem a necessidade de utilizar a auth.users
 
 -- cria a tabela users
