@@ -3,7 +3,7 @@
 -- sem a necessidade de utilizar a auth.users
 
 -- cria a tabela users
-create table users ()
+create table users () (
   id uuid not null primary key,
   email text
 );
